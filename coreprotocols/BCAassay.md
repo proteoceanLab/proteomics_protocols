@@ -40,8 +40,10 @@
 11. Analysis
     1. For all samples, subtract background value from well H2
     2. Create a standard curve with results from Column #2 (linear)
-    3. Use standard curve to assign µg/µL values to samples
-    4. Multiply by 1000 and average duplicates to find protein concentration
+    3. Average duplicates 
+    4. Use standard curve to assign µg/µL values to BCA samples
+    5. Multiply final answer by dilution factor for total sample concentration
+        1. Dilution factor = _________ex 5 __ vol of sample in well / _______ex 100 ___ total vol in well. (20)
 
 ### Waste 
 * Extra kit solution is a ecotoxic hazard and liquid waste needs to be collected
