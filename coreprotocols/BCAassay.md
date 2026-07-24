@@ -43,7 +43,7 @@
     3. Average duplicates 
     4. Use standard curve to assign µg/µL values to BCA samples
     5. Multiply final answer by dilution factor for total sample concentration
-        1. Dilution factor = _________ex 5 __ vol of sample in well / _______ex 100 ___ total vol in well. (20)
+        1. Dilution factor =   ________ total vol in well./ _______ vol of sample in well (Ex. 100/5 = 20)
 
 ### Waste 
 * Extra kit solution is a ecotoxic hazard and liquid waste needs to be collected
