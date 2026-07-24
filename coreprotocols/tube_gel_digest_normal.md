@@ -18,13 +18,14 @@
 
 ### Chemicals
 Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use only LCMS grade solvents<br>
+
 ## Stocks 
-* LCMS grade acetonitrile - chemical hood, shared shelf stable<br>
+* LCMS grade acetonitrile - chemical hood, shared shelf stable <br>
 * LCMS grade methanol - bottom shelf of chemical hood
 * TEMED (full concentration) - in corrosive cabinet <br>
 * Ammonium persulfate - chemical shelf<br>
 * 1M Tris HCL, pH 7.5 - fridge <br> 
-* 40% Bis-acrylmide L 29:1 (labeled acrylamide)- in hazard container on chemical shelf<br>
+* 40% Bis-acrylmide L 29:1 (labeled acrylamide)- in hazard container on chemical shelf <br>
 * TE buffer (bought but - 10mM tris HCL, 1mM EDTA in water) - fridge <br>
 * 10mM dithiothreitol (DTT) - stored in freezer <br>
 * Iodacetamide (IODA) - stored in freezer <br>
